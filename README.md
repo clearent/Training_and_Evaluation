@@ -1,5 +1,5 @@
-CodingTraining
-==============
+Training and Evaluation
+=======================
 
 This repository holds coding challenges, solutions, and problem descriptions used to evaluate a person's coding ability.
 
