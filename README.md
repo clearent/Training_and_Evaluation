@@ -1,5 +1,5 @@
-Training and Evaluation
-=======================
+CodingTraining
+==============
 
 This repository holds coding challenges, solutions, and problem descriptions used to evaluate a person's coding ability.
 
@@ -20,3 +20,7 @@ Clearent uses these projects, along with others that are not posted, to evaluate
 ### ProjectEuler2
 
 This is a complete C# solution.  A bug exists in the program that needs to be fixed, and not all of the code is properly unit tested.
+
+### ProjectEuler4
+
+This is actually an exercise for the reader. The intention is for someone to create a program to solve http://projecteuler.net/problem=4.
