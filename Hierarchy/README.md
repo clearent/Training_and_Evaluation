@@ -43,10 +43,10 @@ stored in a table that looks like:
 | Sam-antha | Carthage     | 44 |
 | Joseph    | St. Louis    | 51 |
 | Henry     | Poplar Bluff | 12 |
-| Phi-lip   | Paris        |  9 |
+| Philip    | Paris        |  9 |
 | Carrie    | Joplin       | 42 |
 | Devin     | St. Louis    | 17 |
-| Mat-thew  | Baden        | 81 |
+| Matthew   | Baden        | 81 |
 | Ann       | St. Louis    |  3 |
 | Luke      | St. Louis    | 33 |
 
