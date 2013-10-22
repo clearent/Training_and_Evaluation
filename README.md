@@ -24,3 +24,11 @@ This is a complete C# solution.  A bug exists in the program that needs to be fi
 ### ProjectEuler4
 
 This is actually an exercise for the reader. The intention is for someone to create a program to solve http://projecteuler.net/problem=4.
+
+### Powershell_Fixup
+
+This is a set of directories, test files, and a Powershell script.  The script attempts to identify certain files in the source directory and move them to the destination directory.  A bug exists in the script, and additional functionality needs to be added.
+
+### Hierarchy
+
+In our industry, the relationship between merchants, ISOs, banks, and sales reps is a ragged hierarchy.  Ragged hierarchies are challenging to store, write, and retrieve data efficiently.  This directory contains data challenges around a ragged hierarchy.
