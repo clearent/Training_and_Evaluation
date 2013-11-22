@@ -30,7 +30,7 @@ Given data structured in the following way:
                                                                                                            |
                                                                                                           Luke
                                                                                                           ----
-                                                                                                          Age: 33
+                                                                                                          Age: 70
                                                                                                           Location: St. Louis
 ```
 
@@ -48,7 +48,7 @@ stored in a table that looks like:
 | Devin     | St. Louis    | 17 |
 | Matthew   | Baden        | 81 |
 | Ann       | St. Louis    |  3 |
-| Luke      | St. Louis    | 33 |
+| Luke      | St. Louis    | 70 |
 
 
 Do the following:
