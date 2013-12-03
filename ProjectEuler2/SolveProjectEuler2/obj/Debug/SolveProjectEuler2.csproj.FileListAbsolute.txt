@@ -1,0 +1,5 @@
+C:\Git\clearent\Training_and_Evaluation\ProjectEuler2\SolveProjectEuler2\bin\Debug\SolveProjectEuler2.exe.config
+C:\Git\clearent\Training_and_Evaluation\ProjectEuler2\SolveProjectEuler2\bin\Debug\SolveProjectEuler2.exe
+C:\Git\clearent\Training_and_Evaluation\ProjectEuler2\SolveProjectEuler2\bin\Debug\SolveProjectEuler2.pdb
+C:\Git\clearent\Training_and_Evaluation\ProjectEuler2\SolveProjectEuler2\obj\Debug\SolveProjectEuler2.exe
+C:\Git\clearent\Training_and_Evaluation\ProjectEuler2\SolveProjectEuler2\obj\Debug\SolveProjectEuler2.pdb
