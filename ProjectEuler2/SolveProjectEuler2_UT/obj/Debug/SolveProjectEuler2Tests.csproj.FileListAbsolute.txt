@@ -1,9 +1,0 @@
-C:\Git\clearent\Training_and_Evaluation\ProjectEuler2\SolveProjectEuler2_UT\bin\Debug\SolveProjectEuler2_UT.dll
-C:\Git\clearent\Training_and_Evaluation\ProjectEuler2\SolveProjectEuler2_UT\bin\Debug\SolveProjectEuler2_UT.pdb
-C:\Git\clearent\Training_and_Evaluation\ProjectEuler2\SolveProjectEuler2_UT\bin\Debug\Rhino.Mocks.dll
-C:\Git\clearent\Training_and_Evaluation\ProjectEuler2\SolveProjectEuler2_UT\bin\Debug\SolveProjectEuler2.exe
-C:\Git\clearent\Training_and_Evaluation\ProjectEuler2\SolveProjectEuler2_UT\bin\Debug\SolveProjectEuler2.pdb
-C:\Git\clearent\Training_and_Evaluation\ProjectEuler2\SolveProjectEuler2_UT\bin\Debug\Rhino.Mocks.xml
-C:\Git\clearent\Training_and_Evaluation\ProjectEuler2\SolveProjectEuler2_UT\obj\Debug\SolveProjectEuler2Tests.csprojResolveAssemblyReference.cache
-C:\Git\clearent\Training_and_Evaluation\ProjectEuler2\SolveProjectEuler2_UT\obj\Debug\SolveProjectEuler2_UT.dll
-C:\Git\clearent\Training_and_Evaluation\ProjectEuler2\SolveProjectEuler2_UT\obj\Debug\SolveProjectEuler2_UT.pdb
