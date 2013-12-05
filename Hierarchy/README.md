@@ -38,7 +38,7 @@ stored in a table that looks like:
 
 | Name      | Location     | Age|
 |-----------|--------------|----|
-| Jim       | St. Louis    | 30 |
+| Jim       | St. Louis    | 32 |
 | Donna     | Poplar Bluff | 27 |
 | Sam-antha | Carthage     | 44 |
 | Joseph    | St. Louis    | 51 |
