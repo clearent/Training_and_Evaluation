@@ -1,0 +1,6 @@
+c:\users\sconway.2tzhdh1\documents\visual studio 2012\Projects\ProjectEuler4\ProjectEuler4\bin\Debug\ProjectEuler4.exe.config
+c:\users\sconway.2tzhdh1\documents\visual studio 2012\Projects\ProjectEuler4\ProjectEuler4\obj\Debug\ProjectEuler4.csprojResolveAssemblyReference.cache
+c:\users\sconway.2tzhdh1\documents\visual studio 2012\Projects\ProjectEuler4\ProjectEuler4\bin\Debug\ProjectEuler4.exe
+c:\users\sconway.2tzhdh1\documents\visual studio 2012\Projects\ProjectEuler4\ProjectEuler4\bin\Debug\ProjectEuler4.pdb
+c:\users\sconway.2tzhdh1\documents\visual studio 2012\Projects\ProjectEuler4\ProjectEuler4\obj\Debug\ProjectEuler4.exe
+c:\users\sconway.2tzhdh1\documents\visual studio 2012\Projects\ProjectEuler4\ProjectEuler4\obj\Debug\ProjectEuler4.pdb
