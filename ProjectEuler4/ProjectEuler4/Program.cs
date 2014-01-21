@@ -7,8 +7,8 @@ namespace ProjectEuler4
     {
         static void Main()
         {
-            const int lowerNumber = 10;
-            const int upperNumber = 99;
+            const int lowerNumber = 100;
+            const int upperNumber = 999;
             var largestPalindrome = 0;
             
             for (var i = lowerNumber; i <= upperNumber; i++)
