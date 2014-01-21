@@ -36,7 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Rhino.Mocks">
-      <HintPath>..\..\..\..\clearent\source\projects\References\RhinoMocks\3.6\Rhino.Mocks.dll</HintPath>
+      <HintPath>..\packages\RhinoMocks.3.6.1\lib\net\Rhino.Mocks.dll</HintPath>
     </Reference>
     <Reference Include="System" />
   </ItemGroup>
@@ -56,12 +56,16 @@
     <Compile Include="Calculator_UT.cs" />
     <Compile Include="EvenNumberFilter_UT.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FibonacciSequencer_UT.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SolveProjectEuler2\SolveProjectEuler2.csproj">
       <Project>{cbb7d3e6-ffdd-4967-834b-111babe10181}</Project>
       <Name>SolveProjectEuler2</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
