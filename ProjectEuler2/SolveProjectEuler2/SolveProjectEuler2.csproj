@@ -43,8 +43,10 @@
   <ItemGroup>
     <Compile Include="Calculator.cs" />
     <Compile Include="EvenNumberFilter.cs" />
+    <Compile Include="FibonacciSequencer.cs" />
     <Compile Include="ICalculator.cs" />
     <Compile Include="IEvenNumberFilter.cs" />
+    <Compile Include="IFibonacciSequencer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
